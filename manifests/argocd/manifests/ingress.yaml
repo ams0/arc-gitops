@@ -20,7 +20,6 @@ spec:
             enabled: true
     chart: ingress-nginx
     repoURL: https://kubernetes.github.io/ingress-nginx
-    targetRevision: "HEAD"
   syncPolicy:
     automated:
       prune: true
