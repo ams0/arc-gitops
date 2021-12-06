@@ -20,6 +20,6 @@ spec:
     server:
       config:
         repositories: |
-          - url: https://github.com/ams0/arc-gitops.git
+          - url: https://github.com/ams0/arc-gitops-argocd.git
       extraArgs:
         - --insecure
